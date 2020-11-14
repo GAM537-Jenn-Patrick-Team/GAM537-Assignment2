@@ -1,12 +1,12 @@
-# GAM537 Game Fundamentals
+## GAM537 Game Fundamentals
 
-**Assignment 2
+# Assignment 2
 
 To test this project You will need to have access to the latest edition of the Unreal
 Editor. You will also need a thorough understanding Game Genres, Level Design,
 Blueprints, Lighting, Landscape, Colliders and Game Characters. 
 
-**Features 
+**Features** 
 
 • A *NEW* third level
 
